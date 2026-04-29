@@ -1,44 +1,28 @@
-### **Hi** **there,** **Hey** **I'm** **~~$sleepyz~~**
-#### **I'm** **a** **Eithcal** **Coder.**
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body { font-family: sans-serif; }
+  .small { font-size: 0.8em; }
+  .smaller { font-size: 0.6em; }
+  .tiny { font-size: 0.4em; }
+</style>
+</head>
+<body>
 
-<p align="center">
-  <div style="display:flex; align-items:center; justify-content:center; gap:24px;">
-    <img src="https://i.pinimg.com/originals/9b/a7/b2/9ba7b2044d71655aa27460ba2b5fa372.gif" height="200" />
-    <img src="https://github.com/2sleepyz.png" height="200" style="border-radius:50%;" />
-  </div>
-</p>
+  <h1>Yo, I'm Dotz</h1>
 
-- **I'm** **A** **Student** **From** **Egypt** **,** **I'm** **A** **Excellent** **Programmer** **In** **Js** **,** **Python** **And** **Sql** **,**
-- **I'm** **A** **Linux** **devloper** **And Switched To Windows Recently,**
-- **I** **Like** **Making** **Tools** **Ahd** **Shi** **That** **People** **Need** **And** **Post** **Them** [**Here**](https://github.com/2tacks/Tools-i-Made/blob/main/README.md)
-- **Who** **Need** **Them,**
+  <p class="small">I Make Instrusive thoughts into projects</p>
 
-- **Skills:** **Python** **,** **Javascript** **,** **Assembly** **,** **Lua** **,** **C#** **.**
+  <p class="smaller">Heres my guns.lol account: <a href="https://guns.lol">https://guns.lol</a></p>
 
-- **I’m** **currently** **creating** **a** **new** **Tool**
-- **I’m** **currently** **learning** **assembly**
-- **Ask** **me** **about** **tools** **to** **Post** **and** **Update**
-- **How** **to** **reach** **me:** **~~adam.j.hafez2@gmail.com~~**
-- **Pronouns:** **he/him**
+  <!-- Note: Local file paths like C:/Users/... will only work on your computer. 
+       To show these images to others, you'll need to upload them to a host. -->
+  <img src="woo_baow.jpg" alt="First Image" style="width:200px;">
+  <br>
+  <img src="Screenshot 2026-04-29 143618.png" alt="Second Image" style="width:200px;">
 
-# **Socials**
-- [**Pinterest**](https://www.pinterest.com/adamjj2364/)
-- [**Spotify**](https://open.spotify.com/user/31bb7gna3xhvblofxljikwdpp4nm)
-- [**Portfolio**](https://patcherdev.vercel.app)
-- [**Readme** **Creator** **For** **Profiles**](https://arturssmirnovs.github.io/github-profile-readme-generator/)
-- [**Guns.lol**](https://guns.lol/s.tacks)
-- **Emails:** **i1vory_@outlook.com**
+  <p class="tiny">Follow me :></p>
 
-# **Tools** **I** **Like**
-- [**Red** **Tiger**](https://github.com/2tacks/redtigertools/)
-- [**Sqlmap**](https://sqlmap.org)
-- [**Exiftool**](https://exiftool.org)
-- [**Osint** **Framework**](https://osintframework.com/)
-
-# **My** **Stats**
-
-![**GitHub** **stats**](https://github-readme-stats.vercel.app/api?username=2tacks&show_icons=true&count_private=true)
-
-[![**Top** **Langs**](https://github-readme-stats.vercel.app/api/top-langs/?username=2tacks)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub metrics](https://metrics.lecoq.io/2tacks)  
+</body>
+</html>
